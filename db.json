@@ -35,6 +35,12 @@
       "nombre":"Selana",
       "telefono":"0939765584",
       "email":"@gmail.com"
+    },
+        {
+      "id":7,
+      "nombre":"Dayaba",
+      "telefono":"0967094049",
+      "email":"dayana@gmail.com"
     }
 ] 
 }
