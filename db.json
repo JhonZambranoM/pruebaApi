@@ -1,46 +1,13 @@
 {
   "lista": [
-  {
-    "id": 1,
-    "nombre": "jhon",
-    "telefono": "979797",
-    "email": "jhon@gmail.com"
-  },
-  {
-    "id": 2,
-    "nombre": "luis",
-    "telefono": "7676767",
-    "email": "luis@gmail.com"
-  },
-    {
-      "id":3,
-      "nombre":"Melany",
-      "telefono":"09097766",
-      "email":"mel@gmail.com"
-    },
-    {
-      "id":4,
-      "nombre":"Joan",
-      "telefono":"09097766",
-      "email":"joan@gmail.com"
-    },
-    {
-      "id":5,
-      "nombre":"Raymod",
-      "telefono":"09097766",
-      "email":"Raymond@gmail.com"
-    },
-    {
-      "id":6,
-      "nombre":"Selana",
-      "telefono":"0939765584",
-      "email":"@gmail.com"
-    },
-        {
-      "id":7,
-      "nombre":"Dayaba",
-      "telefono":"0967094049",
-      "email":"dayana@gmail.com"
-    }
+{
+	"CodCalificacion":"1",
+	"Comentario":"Muy Buena Aplicación",
+	"Calificacion":"10",
+	"Nombre":"Jhon",
+	"Correo":"jhonmacias@gmail.com",
+	"telefono:"0939765584"
+
+}
 ] 
 }
