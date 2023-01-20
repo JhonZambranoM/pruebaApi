@@ -23,7 +23,15 @@
 	"Nombre":"Melany",
 	"Correo":"melany@gmail.com",
 	"telefono":"0939765523"
-}
+	},
+	   {
+	"CodCalificacion":"4",
+	"Comentario":"No me gusta",
+	"Calificacion":"10",
+	"Nombre":"Dayana",
+	"Correo":"@gmail.com",
+	"telefono":"0939765523"
 	  
+	  }
 ] 
 }
