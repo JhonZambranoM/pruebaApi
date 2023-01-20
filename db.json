@@ -32,6 +32,22 @@
 	"Correo":"@gmail.com",
 	"telefono":"0939765523"
 	  
-	  }
+	  },
+	  {
+	"CodCalificacion":"5",
+	"Comentario":"Me gusta",
+	"Calificacion":"9",
+	"Nombre":"Raymond",
+	"Correo":"@gmail.com",
+	"telefono":"09"
+	},
+	  {
+	"CodCalificacion":"6",
+	"Comentario":"Me gusta",
+	"Calificacion":"10",
+	"Nombre":"Joan",
+	"Correo":"joan@gmail.com",
+	"telefono":"0968"
+	}
 ] 
 }
