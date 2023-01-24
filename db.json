@@ -47,7 +47,39 @@
 	"Calificacion":"10",
 	"Nombre":"Joan",
 	"Correo":"joan@gmail.com",
-	"telefono":"0968"
+	"telefono":"096"
+	},
+	    {
+	"CodCalificacion":"7",
+	"Comentario":"Me gusta",
+	"Calificacion":"10",
+	"Nombre":"Selena",
+	"Correo":"selena@gmail.com",
+	"telefono":"09"
+	},
+	    {
+	"CodCalificacion":"8",
+	"Comentario":"Me gusta",
+	"Calificacion":"10",
+	"Nombre":"Luis",
+	"Correo":"Luis2@gmail.com",
+	"telefono":"09686688332"
+	},
+	    {
+	"CodCalificacion":"9",
+	"Comentario":"Me gusta",
+	"Calificacion":"10",
+	"Nombre":"Maria",
+	"Correo":"Maria@gmail.com",
+	"telefono":"0978654432"
+	},
+	    {
+	"CodCalificacion":"10",
+	"Comentario":"Me gusta",
+	"Calificacion":"10",
+	"Nombre":"Genesis",
+	"Correo":"Genesis@gmail.com",
+	"telefono":"0939675567"
 	}
 ] 
 }
