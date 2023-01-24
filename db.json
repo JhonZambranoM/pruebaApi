@@ -242,6 +242,14 @@
 	"Nombre":"Luisa",
 	"Correo":"LuisaEspinoza@gmail.com",
 	"telefono":"0939675567"
+	},
+	  {
+	"CodCalificacion":"31",
+	"Comentario":"Me gusta",
+	"Calificacion":"10",
+	"Nombre":"Merlina",
+	"Correo":"LuisaEspinoza@gmail.com",
+	"telefono":"0939675567"
 	}
 ] 
 }
