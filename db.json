@@ -80,6 +80,87 @@
 	"Nombre":"Genesis",
 	"Correo":"Genesis@gmail.com",
 	"telefono":"0939675567"
+	},
+	  {
+	"CodCalificacion":"11",
+	"Comentario":"Muy Buena Aplicación",
+	"Calificacion":"10",
+	"Nombre":"Carlos",
+	"Correo":"carlos@gmail.com",
+	"telefono":"0939765584"
+},
+	  {
+	"CodCalificacion":"12",
+	"Comentario":"La mejor Aplicacion",
+	"Calificacion":"10",
+	"Nombre":"Angel",
+	"Correo":"Angel@gmail.com",
+	"telefono":"0987657712"
+	},
+	  {
+	"CodCalificacion":"13",
+	"Comentario":"No me gusta",
+	"Calificacion":"7",
+	"Nombre":"Dario",
+	"Correo":"Dario@gmail.com",
+	"telefono":"0939765523"
+	},
+	   {
+	"CodCalificacion":"14",
+	"Comentario":"No me gusta",
+	"Calificacion":"10",
+	"Nombre":"Lisbeth",
+	"Correo":"lisbeth@gmail.com",
+	"telefono":"0939765523"
+	  
+	  },
+	  {
+	"CodCalificacion":"15",
+	"Comentario":"Me gusta",
+	"Calificacion":"9",
+	"Nombre":"Kleber",
+	"Correo":"kleber@gmail.com",
+	"telefono":"0945678890"
+	},
+	  {
+	"CodCalificacion":"16",
+	"Comentario":"Me gusta",
+	"Calificacion":"10",
+	"Nombre":"Freddy",
+	"Correo":"Freddy@gmail.com",
+	"telefono":"096"
+	},
+	    {
+	"CodCalificacion":"17",
+	"Comentario":"Me gusta",
+	"Calificacion":"10",
+	"Nombre":"Elizabth",
+	"Correo":"elizabeth@gmail.com",
+	"telefono":"09"
+	},
+	    {
+	"CodCalificacion":"18",
+	"Comentario":"Me gusta",
+	"Calificacion":"10",
+	"Nombre":"Bryan",
+	"Correo":"bryan@gmail.com",
+	"telefono":"09686688332"
+	},
+	    {
+	"CodCalificacion":"19",
+	"Comentario":"Me gusta",
+	"Calificacion":"10",
+	"Nombre":"Karla",
+	"Correo":"karla@gmail.com",
+	"telefono":"0978654432"
+	},
+	    {
+	"CodCalificacion":"20",
+	"Comentario":"Me gusta",
+	"Calificacion":"10",
+	"Nombre":"Luisa",
+	"Correo":"Luisa@gmail.com",
+	"telefono":"0939675567"
 	}
 ] 
 }
