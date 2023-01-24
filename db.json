@@ -209,7 +209,7 @@
 	"Calificacion":"10",
 	"Nombre":"Freddy",
 	"Correo":"FreddyCampos@gmail.com",
-	"telefono":"096"
+	"telefono":"0965678954"
 	},
 	    {
 	"CodCalificacion":"27",
@@ -217,7 +217,7 @@
 	"Calificacion":"10",
 	"Nombre":"Elizabth",
 	"Correo":"elizabethRivas@gmail.com",
-	"telefono":"09"
+	"telefono":"0939765584"
 	},
 	    {
 	"CodCalificacion":"28",
@@ -240,14 +240,6 @@
 	"Comentario":"Me gusta",
 	"Calificacion":"10",
 	"Nombre":"Luisa",
-	"Correo":"LuisaEspinoza@gmail.com",
-	"telefono":"0939675567"
-	},
-	  {
-	"CodCalificacion":"31",
-	"Comentario":"Me gusta",
-	"Calificacion":"10",
-	"Nombre":"Merlina",
 	"Correo":"LuisaEspinoza@gmail.com",
 	"telefono":"0939675567"
 	}
