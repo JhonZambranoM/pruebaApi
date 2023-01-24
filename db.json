@@ -161,6 +161,87 @@
 	"Nombre":"Luisa",
 	"Correo":"Luisa@gmail.com",
 	"telefono":"0939675567"
+	},
+	  {
+	"CodCalificacion":"21",
+	"Comentario":"Muy Buena Aplicación",
+	"Calificacion":"10",
+	"Nombre":"Carlos",
+	"Correo":"carlos2@gmail.com",
+	"telefono":"0939765584"
+},
+	  {
+	"CodCalificacion":"22",
+	"Comentario":"La mejor Aplicacion",
+	"Calificacion":"10",
+	"Nombre":"Angel",
+	"Correo":"Angel32@gmail.com",
+	"telefono":"0987657712"
+	},
+	  {
+	"CodCalificacion":"23",
+	"Comentario":"No me gusta",
+	"Calificacion":"7",
+	"Nombre":"Dario",
+	"Correo":"MDario2@gmail.com",
+	"telefono":"0939765523"
+	},
+	   {
+	"CodCalificacion":"24",
+	"Comentario":"No me gusta",
+	"Calificacion":"10",
+	"Nombre":"Lisbeth",
+	"Correo":"Mlisbeth@gmail.com",
+	"telefono":"0939765523"
+	  
+	  },
+	  {
+	"CodCalificacion":"25",
+	"Comentario":"Me gusta",
+	"Calificacion":"9",
+	"Nombre":"Kleber",
+	"Correo":"Mkleberz@gmail.com",
+	"telefono":"0945678890"
+	},
+	  {
+	"CodCalificacion":"26",
+	"Comentario":"Me gusta",
+	"Calificacion":"10",
+	"Nombre":"Freddy",
+	"Correo":"FreddyCampos@gmail.com",
+	"telefono":"096"
+	},
+	    {
+	"CodCalificacion":"27",
+	"Comentario":"Me gusta",
+	"Calificacion":"10",
+	"Nombre":"Elizabth",
+	"Correo":"elizabethRivas@gmail.com",
+	"telefono":"09"
+	},
+	    {
+	"CodCalificacion":"28",
+	"Comentario":"Me gusta",
+	"Calificacion":"10",
+	"Nombre":"Bryan",
+	"Correo":"bryanBriones@gmail.com",
+	"telefono":"09686688332"
+	},
+	    {
+	"CodCalificacion":"29",
+	"Comentario":"Me gusta",
+	"Calificacion":"10",
+	"Nombre":"Karla",
+	"Correo":"karlaMacias@gmail.com",
+	"telefono":"0978654432"
+	},
+	    {
+	"CodCalificacion":"30",
+	"Comentario":"Me gusta",
+	"Calificacion":"10",
+	"Nombre":"Luisa",
+	"Correo":"LuisaEspinoza@gmail.com",
+	"telefono":"0939675567"
 	}
 ] 
 }
